@@ -1,0 +1,2 @@
+This is demonstrating python, and object oriented programming. 
+If I add stats that can produce a graph, its data science too.
